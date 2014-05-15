@@ -1,4 +1,4 @@
 weburl_spider
 =============
 
-weburl spider base on spider.py
+weburl spider base on Scrapy
